@@ -69,6 +69,10 @@ module.exports = {
     }
   },
 
+  router: {
+    base: '/vue-course/',
+  },
+
   generate: {
     dir: 'docs',
     routes: () => {
