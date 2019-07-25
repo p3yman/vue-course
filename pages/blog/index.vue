@@ -3,9 +3,10 @@
 </template>
 
 <script>
-    export default {
-        name: "index"
-    }
+  export default {
+    name: "index",
+    layout: 'blog',
+  }
 </script>
 
 <style scoped>

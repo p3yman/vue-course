@@ -1,6 +1,7 @@
 <template>
   <div>
     <page-header />
+    <h1 style="padding: 50px;">Blog</h1>
     <nuxt />
     <page-footer />
   </div>

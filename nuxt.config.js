@@ -28,6 +28,12 @@ module.exports = {
   ** Global CSS
   */
   css: [
+    '@/assets/css/linearicons.css',
+    '@/assets/css/bootstrap.css',
+    '@/assets/css/font-awesome.min.css',
+    '@/assets/css/animate.min.css',
+    '@/assets/css/main.css',
+    '@/assets/css/custom.css',
   ],
 
   /*
@@ -52,7 +58,7 @@ module.exports = {
     ** You can extend webpack config here
     */
     extend(config, ctx) {
-      
+
     }
   }
 }
