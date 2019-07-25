@@ -45,7 +45,7 @@ export default {
   data() {
     return {
       title: 'My post title',
-      body: 'lorem ipsum',
+      body: 'lorem ipsum text',
       img: 'images/1.png',
       showText: false,
       posts: [
