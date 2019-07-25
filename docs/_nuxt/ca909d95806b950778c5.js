@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{224:function(n,e,t){"use strict";t.r(e);var c={name:"index"},o=t(22),component=Object(o.a)(c,function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  Company\n")])},[],!1,null,"cec16a74",null);e.default=component.exports}}]);
